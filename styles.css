@@ -572,6 +572,7 @@ ul {
   font-family: var(--font-heading);
   font-weight: 800;
   font-size: 1.35rem;
+  line-height: 1;
   margin-bottom: var(--space-sm);
 }
 
